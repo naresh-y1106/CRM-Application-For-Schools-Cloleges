@@ -1,4 +1,4 @@
-# CRM-Application-For-Schools-Cloleges
+# CRM-Application-For-Schools-Colleges
 
 Trailhead url
 
